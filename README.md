@@ -2,7 +2,7 @@
 
 <h3>🌱This repo contains logic for different patterns</h3>
 
-<b>🌟Includes star pattern, num pattern, char patter </b>
+<b>🌟Includes star pattern, num pattern, char pattern </b>
 
 <h3>1️.</h3>
 
